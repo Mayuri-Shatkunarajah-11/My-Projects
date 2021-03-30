@@ -28,7 +28,7 @@ body {
 }
 .calc-btns{
     flex-basis: 24.5%;
-    background-color: cornsilk;
+    background-color: rgb(234, 239, 247);
     color:darkblue;
     height:100px;
     border:none;
@@ -50,7 +50,7 @@ background-color: darksalmon;
     flex-basis:75%;
 }
 .calc-btns:last-child{
-    background-color: goldenrod;
+    background-color: rgb(32, 106, 218);
     
 }
 .calc-btns:last-child:hover{
