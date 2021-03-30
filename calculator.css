@@ -55,5 +55,5 @@ background-color: darksalmon;
 }
 .calc-btns:last-child:hover{
     transform: scale(1);
-    background-color: maroon;
+    background-color: rgb(155, 172, 202);
 }
